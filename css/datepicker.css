@@ -205,3 +205,15 @@
 .qs-datepicker .qs-square:not(.qs-empty):not(.qs-disabled):not(.qs-day):hover {
   background: orange;
 }
+.carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      background-color: black; /* Change to the desired color */
+    }
+
+    /* Optional: Adjust size and position of arrows */
+    .carousel-control-prev,
+    .carousel-control-next {
+      width: 5%; /* Adjust width as needed */
+      top: 50%; /* Adjust vertical position */
+    }
+
